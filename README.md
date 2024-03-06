@@ -13,6 +13,7 @@
   <img align="center"alt= "c#"src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
    <img align="center" alt="pyhton" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
 </div><br/>
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
 
