@@ -1,7 +1,9 @@
 ## Olá! Eu sou o Igor Emanoel 🖐️
 
-
-</div><br/>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=htthttps://www.linkedin.com/in/igoremanoelf/)](https://www.linkedin.com/in/igoremanoelf/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/magamallabaress/)](https://www.instagram.com/magamallabaress/)
+[![Followers](https://img.shields.io/github/followers/natanascimento?style=social&link=https://github.com/igoremanoelf)](https://github.com/igoremanoelf)
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=github.com/igoremanoelf)](https://github.com/igoremanoelf)
 
 <div align="center">
   <a href="https://github.com/igoremanoelf">
